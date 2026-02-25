@@ -3,7 +3,7 @@ let accountEmail="abhi@gamil.com"
 var accountPassword ="12233434"
 accountCity ="latur"
 let accountState;
-// accountId=2 // not allowed
+// accountId=2  not allowed
 accountEmail="adsf@gmail.com"
 accountPassword="23232"
 accountCity="343"
