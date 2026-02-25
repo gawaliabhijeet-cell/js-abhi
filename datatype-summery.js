@@ -37,7 +37,7 @@ console.log(typeof Heros ) // heros typeof  => object
 
 // *******************meamery***********************
 
-// stack(primitive),heap (non-primitive)
+// stack(primitive),  heap (non-primitive)
 
 let myYoutubename ="abhi.com"
 let anothername = myYoutubename
