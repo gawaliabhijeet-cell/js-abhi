@@ -34,3 +34,10 @@ myfunction(); // calling the function
 
 console.log(typeof outsideTemp); // outsideTemp => object 
 console.log(typeof Heros ) // heros typeof  => object 
+
+
+// *******************meamery***********************
+
+// stack(primitive),heap (non-primitive)
+
+let myYoutubename ="abhi.com"
