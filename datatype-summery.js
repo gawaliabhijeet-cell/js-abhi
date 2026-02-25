@@ -33,11 +33,27 @@ const myfunction = function() {
 myfunction(); // calling the function
 
 console.log(typeof outsideTemp); // outsideTemp => object 
-console.log(typeof Heros ) // heros typeof  => object 
-
+console.log(typeof Heros ) // heros typeof  => object
 
 // *******************meamery***********************
 
 // stack(primitive),heap (non-primitive)
 
 let myYoutubename ="abhi.com"
+let anothername = myYoutubename
+
+anothername = "abhijeet.com"
+console.log(myYoutubename)
+console.log(anothername)
+
+let user ={
+    userEmail: "user@googel.com"
+
+}
+
+let userTow = user
+
+userTow.Email = "abhi@google.com"
+
+console.log(user.Email)
+console.log(userTow.Email)
