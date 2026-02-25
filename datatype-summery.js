@@ -11,7 +11,7 @@ let userEmail = undefined
 
 const id = Symbol("123")
 const anotherId = Symbol('123')
-console.log(id == anotherId)
+console.log(id == anotherId) // not equal
 
 
 
@@ -33,4 +33,4 @@ const myfunction = function() {
 myfunction(); // calling the function
 
 console.log(typeof outsideTemp); // outsideTemp => object 
-console.log(typeof Heros ) // heros typeof  => object
+console.log(typeof Heros ) // heros typeof  => object 
