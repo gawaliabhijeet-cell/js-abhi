@@ -28,7 +28,7 @@ console.log(myArr)
 console.log(typeof newArr)
 console.log(newArr)
 
-// slice,splice
+// slice,splice it is a very an intervive 
 
 console.log("A",myArr)
 const myn1 = myArr.slice(1,3)
