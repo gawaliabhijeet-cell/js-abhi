@@ -5,7 +5,7 @@ console.log(typeof score);
 console.log(typeof(score));
 
 let valuenumber =Number(score)
-console.log(typeof valuenumber)
+console.log(typeof valuenumber)  
 console.log(valuenumber)
 
 
