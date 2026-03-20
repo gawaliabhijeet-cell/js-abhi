@@ -56,3 +56,23 @@ console.log(Object.entries(tinder_user))
 
 console.log(tinder_user.hasOwnProperty('isLogged'))
 console.log(tinder_user.hasOwnProperty('isLoggedIn'))
+
+const course = {
+    course_name: "js",
+    course_teacher: "abhijeet",
+    course_prize: "0000"
+
+}
+
+// course.courseInstructor
+
+const {course_teacher:teacher} = course
+console.log(teacher); 
+
+
+//*    API     */  // api display sometime
+// {
+//     "name": "abhi",
+//     "course_name": "js",
+//     "price": "free"
+// }
